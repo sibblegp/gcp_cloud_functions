@@ -34,7 +34,7 @@ rsa==3.4.2
 six==1.11.0
 typed-ast==1.1.0
 typing==3.6.6
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.14.1
 wrapt==1.10.11
